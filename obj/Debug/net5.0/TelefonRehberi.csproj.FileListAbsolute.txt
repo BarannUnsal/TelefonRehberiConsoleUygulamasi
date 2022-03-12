@@ -1,0 +1,16 @@
+D:\source\repos\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.exe
+D:\source\repos\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.deps.json
+D:\source\repos\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.json
+D:\source\repos\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.dev.json
+D:\source\repos\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.dll
+D:\source\repos\TelefonRehberi\bin\Debug\net5.0\ref\TelefonRehberi.dll
+D:\source\repos\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.pdb
+D:\source\repos\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.csproj.AssemblyReference.cache
+D:\source\repos\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfoInputs.cache
+D:\source\repos\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfo.cs
+D:\source\repos\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.csproj.CoreCompileInputs.cache
+D:\source\repos\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.dll
+D:\source\repos\TelefonRehberi\obj\Debug\net5.0\ref\TelefonRehberi.dll
+D:\source\repos\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.pdb
+D:\source\repos\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.genruntimeconfig.cache
